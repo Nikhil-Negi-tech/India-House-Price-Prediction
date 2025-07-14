@@ -2,7 +2,7 @@
 
 A machine learning web application built with Streamlit that predicts house prices in India based on various property features.
 
-## 📋 Table of Contents
+##  Table of Contents
 - [Overview](#overview)
 - [Features](#features)
 - [Dataset](#dataset)
