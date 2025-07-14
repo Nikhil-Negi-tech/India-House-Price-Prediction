@@ -184,12 +184,12 @@ This project is open source and available under the MIT License.
 
 ## 👤 Author
 
-**YBI Foundation Live Project**
-- Original Colab Notebook: [Link](https://colab.research.google.com/drive/1w-Lv1j49YlcEwbpbHR-UwpV4ENqJ9XSz)
+**Nikhil Negi**
+- Skills learned through YBI Foundation 45-Days Internship Program
 
 ## 🙏 Acknowledgments
 
-- YBI Foundation for the original project and dataset
+- YBI Foundation for the live skill learning classes
 - Streamlit team for the amazing web framework
 - Scikit-learn contributors for the machine learning tools
 
