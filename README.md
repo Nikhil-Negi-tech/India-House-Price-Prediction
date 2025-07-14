@@ -61,7 +61,7 @@ Download the project files to your local machine.
 
 ### Step 2: Install Dependencies
 ```bash
-pip install -r requirement.txt
+pip install -r requirements.txt
 ```
 
 The required packages are:
@@ -126,7 +126,7 @@ python -m streamlit run IndiaHousePrice.py
 ybi project-2/
 ├── IndiaHousePrice.py      # Main Streamlit application
 ├── IndiaHousePrice.csv     # Dataset file
-├── requirement.txt         # Python dependencies
+├── requirements.txt        # Python dependencies
 ├── run_app.bat            # Windows batch file for easy startup
 └── README.md              # Project documentation
 ```
@@ -154,7 +154,7 @@ The application includes:
 
 3. **Module Import Errors**
    - **Cause**: Missing dependencies
-   - **Solution**: Run `pip install -r requirement.txt`
+   - **Solution**: Run `pip install -r requirements.txt`
 
 ### Tips for Best Results
 - Use property features within the statistical ranges shown in the app
